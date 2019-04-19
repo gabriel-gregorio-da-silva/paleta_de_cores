@@ -1,4 +1,4 @@
-![paleta de cores](paleta de cores em tkinter.png)
+[![paleta de cores](paleta de cores em tkinter.png)](https://github.com/gabriel-gregorio-da-silva)
 
 # Paleta_de_cores
 Paleta de cores 5x4 em Python usando a biblioteca Tkinter. Ela usa uma lista de imagens e um loop para __mapear__ a criação da paleta.
