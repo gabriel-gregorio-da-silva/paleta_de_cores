@@ -1,4 +1,4 @@
-![paleta](https://raw.githubusercontent.com/gabriel-gregorio-da-silva/paleta_de_cores/master/paleta%20de%20cores%20em%20tkinter.png)
+![alt paleta](https://raw.githubusercontent.com/gabriel-gregorio-da-silva/paleta_de_cores/master/paleta%20de%20cores%20em%20tkinter.png)
 
 
 
